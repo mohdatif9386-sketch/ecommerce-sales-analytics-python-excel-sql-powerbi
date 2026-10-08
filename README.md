@@ -8,9 +8,11 @@ End-to-End E-Commerce Data Analytics project: Data Cleaning using Python, Busine
 Raw Multi-table CSVs ➔ Python (Cleaning & ETL) ➔ SQL Database (Queries & KPIs) ➔ Power BI (Data Modeling & Dashboard)
 ```
 
-1. **Data Cleaning & ETL (Python):** Missing values handle karna, inconsistent formats fix karna, datatypes parse karna aur relational integrity check karna.
-2. **Business Analysis (SQL):** Joins, Aggregations, Window Functions aur CTEs use karke revenue, profit, customer behavior aur product performance derive karna.
-3. **Data Modeling & Visualization (Power BI):** Star Schema model create karna, DAX measures likhna, aur dynamic slicers ke sath interactive dashboard taiyar karna.
+1. Data Cleaning & ETL (Python): Handling missing values, standardizing inconsistent formats, parsing data types, and verifying relational integrity across datasets.
+
+2. Business Analysis (SQL): Leveraging JOINs, aggregate functions, window functions, and Common Table Expressions (CTEs) to evaluate revenue, profit margins, customer behavior patterns, and product performance.
+
+3. Data Modeling & Visualization (Power BI): Designing an optimized Star Schema data model, engineering custom DAX measures, and configuring an interactive dashboard equipped with dynamic multi-attribute slicers.
 
 ---
 
